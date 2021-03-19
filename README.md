@@ -15,7 +15,18 @@ Current users can then choose whether they would like to enter their own thought
 2. Users can post/publish what to expect when traveling to a specific country and then save it in the database.
 3. Users can view existing countries’ information.
 
-
+Homepage
+![](screenshot/Home.png)
+Signup page
+![](screenshot/Signup.png)
+Contact page
+![](screenshot/Contact.png)
+Main page
+![](screenshot/Main.png)
+Alert successful user if finds story in story timeline.
+![](screenshot/Yes.png)
+Alert unsuccessful if user finds does not story in story timeline.
+![](screenshot/No.png)
 
 ## Instructions to build:
 
