@@ -1,0 +1,28 @@
+{
+  "name": "travelguideapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node  ./node_modules/nodemon/bin/nodemon.js ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-session": "^1.17.1",
+    "mongodb": "^3.6.4",
+    "nodemon": "^2.0.7",
+    "morgan": "~1.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-prettier": "^8.1.0",
+    "prettier": "^2.2.1"
+  },
+  "keywords": [],
+  "author": "Bernard Ekezie, Yuehan Pei",
+  "license": "MIT",
+  "description": "Built a website that where users can learn and share details that you and others can keep in mind when traveling abroad to various countries."
+}

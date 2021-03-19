@@ -1,0 +1,28 @@
+/*--/ classes and ids in columns /--*/
+
+#intro {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-create {
+  max-width: 350px;
+  margin: auto;
+  border-radius: 5px;
+  background: #96bb72;
+  padding: 20px;
+}
+
+input[type="text"],
+input[type="name"],
+#selectCountry {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
