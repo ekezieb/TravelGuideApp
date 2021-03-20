@@ -1,7 +1,8 @@
 # TravelGuideApp
 
 ## Author:
-Bernard Ekezie
+Bernard Ekezie & Yuehan Pei
+
 
 # Project Objective:
 A website where people can post information about things to keep in mind when traveling abroad to various countries.
